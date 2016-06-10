@@ -1,0 +1,32 @@
+{
+  "name": "shelljs-benchmark-ui-sample",
+  "version": "0.1.0",
+  "description": "A sample UI for shelljs benchmarks",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "deploy-gh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfischer/shelljs-benchmark-ui-sample.git"
+  },
+  "keywords": [
+    "shelljs",
+    "benchmarks",
+    "sample",
+    "ui"
+  ],
+  "author": "Nate Fischer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nfischer/shelljs-benchmark-ui-sample/issues"
+  },
+  "homepage": "https://github.com/nfischer/shelljs-benchmark-ui-sample#readme",
+  "devDependencies": {
+    "deploy-gh": "^0.1.2"
+  }
+}
